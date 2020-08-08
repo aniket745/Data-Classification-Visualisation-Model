@@ -1,4 +1,4 @@
-# Data-Classification-Visualisation-Model
+# Data-Classification-Visualization-Model
 ## Abstract:  
 Using the dataset provided, we built data visualization model and found the best data segmentation model using Python. Our classifier model has accuracy is 95.46% and f1-score is 94.19%. We have designed pdf file of graphs based on problem statement which will help to visualize relation between various parameter of dataset. 
 
